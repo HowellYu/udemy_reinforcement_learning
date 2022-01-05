@@ -13,3 +13,8 @@
         4. Bayesian Bandits / Thompson Sampling Theory
             - `bayesion_starter.py`: hw
             - `bayesion_bandits.py`: hw soln
+        5. Bayesian Normal
+            -  `bayesion_normal.py`: hw soln
+- Section 5:
+    1. Grid world
+        - `grid_world.py`
